@@ -20,4 +20,5 @@
 
 ### stats
 
-![javadbat stats](https://github-readme-stats.vercel.app/api?username=javadbat&show_icons=true&theme=transparent)
+![javadbat stats](https://github-readme-stats.vercel.app/api?username=javadbat&show_icons=true&theme=transparent)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadbat)](https://github.com/anuraghazra/github-readme-stats)
