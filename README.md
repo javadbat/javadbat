@@ -19,4 +19,4 @@
 </p>
 ##stats
 
-[javadbat stats](https://github-readme-stats.vercel.app/api?username=javadbat&show_icons=true&theme=transparent)
+![javadbat stats](https://github-readme-stats.vercel.app/api?username=javadbat&show_icons=true&theme=transparent)
